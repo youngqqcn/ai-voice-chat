@@ -4,6 +4,8 @@ ai 语音聊天
 
 > 确保已经安装python的包管理 poetry
 
+在 `.env` 设置 APIKEY `ALIYUN_API_KEY`
+
 
 ## 语音识别
 
