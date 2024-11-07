@@ -1,3 +1,5 @@
+// 参考： https://github.com/wayou/audio-recorder/tree/master
+
 const recordBtn = document.querySelector(".record-btn");
 const player = document.querySelector(".audio-player");
 

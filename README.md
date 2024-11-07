@@ -43,3 +43,11 @@ python tts.py
 ```
 
 
+
+##  前端录音
+
+在线体验：  https://youngqqcn.github.io/ai-voice-chat/
+
+- 代码:
+  - [index.html](./index.html)
+  - [recorder.js](./recorder.js)
